@@ -1,0 +1,9 @@
+dataset/running_1 filter=lfs diff=lfs merge=lfs -text
+dataset/sedentary_1 filter=lfs diff=lfs merge=lfs -text
+dataset/sedentary_2 filter=lfs diff=lfs merge=lfs -text
+dataset/walking_2017-03-29 filter=lfs diff=lfs merge=lfs -text
+dataset/biking_2017-03-29 filter=lfs diff=lfs merge=lfs -text
+dataset/incar_1 filter=lfs diff=lfs merge=lfs -text
+dataset/incar_2 filter=lfs diff=lfs merge=lfs -text
+dataset/intrain filter=lfs diff=lfs merge=lfs -text
+dataset/sedentary_3 filter=lfs diff=lfs merge=lfs -text
